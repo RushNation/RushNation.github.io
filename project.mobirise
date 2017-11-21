@@ -101,11 +101,11 @@
           "_inherit": "slider",
           "_afterNavbarItem": ".mbr-slider",
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/ytber-1200x450.png",
+                "image": "@PROJECT_PATH@/assets/images/ytber-1-1200x450.png",
                 "active": false,
                 "showButtons": true,
                 "showText": false,
@@ -130,7 +130,7 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/builder-1200x450.png",
+                "image": "@PROJECT_PATH@/assets/images/builder-1-1200x450.png",
                 "active": false,
                 "showButtons": true,
                 "showText": false,
